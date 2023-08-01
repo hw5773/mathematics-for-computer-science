@@ -1,0 +1,5 @@
+a and b
+x or y
+not c
+p implies q
+p iff q
